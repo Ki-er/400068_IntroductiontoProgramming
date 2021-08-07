@@ -1,0 +1,14 @@
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\File01.wrd
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\File02.wrd
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\File03.wrd
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\File04.wrd
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\File05.wrd
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\File06.wrd
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\File07.wrd
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\WordsearchACW.exe.config
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\WordsearchACW.exe
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\bin\Debug\WordsearchACW.pdb
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\obj\Debug\WordsearchACW.csprojAssemblyReference.cache
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\obj\Debug\WordsearchACW.csproj.CoreCompileInputs.cache
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\obj\Debug\WordsearchACW.exe
+G:\Previous\University - Year 1\Unit 2_Programming and Algorthmic Thinking\Wordsearchforzipping\Wordsearchforzipping\obj\Debug\WordsearchACW.pdb
